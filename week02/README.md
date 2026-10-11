@@ -4,7 +4,7 @@ This project extends Week 1's house price analysis by investigating **Decision T
 
 The focus is on understanding how tree-based models work, how hyperparameters affect model performance, how overfitting can be identified and controlled, and whether ensemble learning improves predictions compared with a single Decision Tree.
 
-The analysis builds on the dataset, cleaning procedures, EDA and baseline models established in Week 1. For details about these steps, refer to the [Week 1 project](../Week-01/README.md).
+The analysis builds on the dataset, cleaning procedures, EDA and baseline models established in Week 1. For details about these steps, refer to the [Week 1 project](../week01/README.md).
 
 ---
 
